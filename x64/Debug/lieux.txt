@@ -1,0 +1,24 @@
+Guichen,Super ville,5,true
+Bruz,Ville ok-tier,14,false
+Pont-Rean,Voila ca c'est une bete de ville !,18,false
+Rennes,Petite boourgade,5,false
+Guichen,Super ville,5,true
+Bruz,Ville ok-tier,14,false
+Pont-Rean,Voila ca c'est une bete de ville !,18,false
+Rennes,Petite boourgade,5,false
+Guichen,Super ville,5,true
+Bruz,Ville ok-tier,14,false
+Pont-Rean,Voila ca c'est une bete de ville !,18,false
+Rennes,Petite boourgade,5,false
+Guichen,Super ville,5,true
+Bruz,Ville ok-tier,14,false
+Pont-Rean,Voila ca c'est une bete de ville !,18,false
+Rennes,Petite boourgade,5,false
+Guichen,Super ville,5,true
+Bruz,Ville ok-tier,14,false
+Pont-Rean,Voila ca c'est une bete de ville !,18,false
+Rennes,Petite boourgade,5,false
+Guichen,Super ville,5,true
+Bruz,Ville ok-tier,14,false
+Pont-Rean,Voila ca c'est une bete de ville !,18,false
+Rennes,Petite boourgade,5,false
